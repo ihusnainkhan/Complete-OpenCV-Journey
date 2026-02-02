@@ -8,8 +8,8 @@ if rimg is None:
 else:
     print("Image is Loaded")
     
-    pt1 = (20,200)
-    pt2 = (279,200)
+    pt1 = (20,200) #x1,y1 
+    pt2 = (279,200) #x2, y2
     color = (255,0,0)
     thickness = 2
     
